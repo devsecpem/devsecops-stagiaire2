@@ -10,3 +10,4 @@ composer.phar
 .DS_Store
 Thumbs.db
 
+.env
